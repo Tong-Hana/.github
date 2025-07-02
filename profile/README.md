@@ -139,7 +139,7 @@
 
 ## 🛠 System Architecture
 
-![image](https://github.com/user-attachments/assets/c0c50b7e-1f1a-4fd1-a9b2-b5e471987ea7)
+![Group 133](https://github.com/user-attachments/assets/7ff78762-5714-4b09-8617-6583d709dfa5)
 
 <br><br>
 
